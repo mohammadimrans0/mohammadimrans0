@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Imran!
 
-<!--
-**mohammadimrans0/mohammadimrans0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | MERN Stack | Django | Next.js | Zustand  
+🚀 Passionate about building scalable applications and solving DSA problems.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- **Languages:** TypeScript, JavaScript, Python, C++
+- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI
+- **Backend:** Node.js, Django, Spring Boot
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Docker, Kubernetes, Nix, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats:
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadimrans0&show_icons=true&theme=radical)
+
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-imran)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=web)](https://yourportfolio.com)  
+
