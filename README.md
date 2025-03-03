@@ -2,7 +2,8 @@
 
 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**\
 📍 Chattogram, Bangladesh\
-[Email](mailto:mohammadimrans09t@gmail.com) | [Website](https://mohammadimran.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mohammadimrans0/)
+✉️ Email : mohammadimrans09t@gmail.com\
+[Website](https://mohammadimran.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mohammadimrans0/)
 
 ---
 
