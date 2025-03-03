@@ -2,9 +2,7 @@
 
 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**\
 📍 Chattogram, Bangladesh\
-Email : mohammadimrans09t@gmail.com\
-Website : mohammadimran.vercel.app\
-LinkedIn : linkedin.com/in/mohammadimrans0
+[Email](mailto:mohammadimrans09t@gmail.com) | [Website](https://mohammadimran.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/mohammadimrans0/)
 
 ---
 
@@ -30,7 +28,7 @@ I'm a self-taught full-stack software developer with a strong foundation in **pr
 
 ## 🔥 Projects
 
-### [Lifepage (Social Media)](#)
+### [Lifepage (Social Media)](https://github.com/mohammadimrans0/Lifepage)
 
 **Tech Stack:** Python-Django, Next.js, Tailwind CSS, Zustand, PostgreSQL
 
@@ -38,7 +36,7 @@ I'm a self-taught full-stack software developer with a strong foundation in **pr
 - Used **Django** for backend, **Zustand** for efficient global state management.
 - Ensured a seamless experience with **Tailwind CSS**.
 
-### [Open University (University Management System)](#)
+### [Open University (University Management System)](https://github.com/mohammadimrans0/Open_University)
 
 **Tech Stack:** TypeScript, Next.js, AntD, Express.js, MongoDB, PostgreSQL, Redis
 
@@ -46,7 +44,7 @@ I'm a self-taught full-stack software developer with a strong foundation in **pr
 - Used **Redis** for inter-service communication and **JWT+Bcrypt** for authentication.
 - Designed a responsive UI with **Ant Design and Next.js**.
 
-### [EasyGrocery (Grocery Shop)](#)
+### [EasyGrocery (Grocery Shop)](https://github.com/mohammadimrans0/EasyGrocery)
 
 **Tech Stack:** Django, Next.js, Tailwind CSS, Zustand, PostgreSQL
 
