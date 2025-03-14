@@ -1,3 +1,5 @@
+![Alt text](https://i.ibb.co/wh3SxhxT/my-banner-img.jpg)
+
 # Hi, I'm Mohammad Imran! 👋
 
 🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**\
